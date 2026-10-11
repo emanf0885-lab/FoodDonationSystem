@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FoodDonation.Api/FoodDonation.Api.csproj" />
+  <Project Path="FoodDonation.Client/FoodDonation.Client.csproj" />
+</Solution>

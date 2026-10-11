@@ -1,0 +1,7 @@
+Add this before </Project> in FoodDonation.Client.csproj if it is not already present:
+
+<ItemGroup>
+  <Content Include="Assets\*.png">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
+</ItemGroup>

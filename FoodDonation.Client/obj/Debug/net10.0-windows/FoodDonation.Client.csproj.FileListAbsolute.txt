@@ -1,0 +1,14 @@
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\bin\Debug\net10.0-windows\FoodDonation.Client.exe
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\bin\Debug\net10.0-windows\FoodDonation.Client.deps.json
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\bin\Debug\net10.0-windows\FoodDonation.Client.runtimeconfig.json
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\bin\Debug\net10.0-windows\FoodDonation.Client.dll
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\bin\Debug\net10.0-windows\FoodDonation.Client.pdb
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.AssemblyInfo.cs
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.dll
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\refint\FoodDonation.Client.dll
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.pdb
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\FoodDonation.Client.genruntimeconfig.cache
+C:\Users\dell\Downloads\FoodDonationSystem\FoodDonation.Client\obj\Debug\net10.0-windows\ref\FoodDonation.Client.dll
